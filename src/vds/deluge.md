@@ -48,7 +48,7 @@ sudo apt update -y && sudo apt upgrade -y
 
 ### Как добавить торрент?
 ![addingTorrent](https://whwin.xyz/wiki-p2g/addtorrent.png)
-В верхнем левом углу нажмите "add", дальше "File", выбирает свой файл и внизу нажимаете "add".
+В верхнем левом углу нажмите "Add", дальше "File", выбирает свой файл и внизу нажимаете "Add".
 
 ## Испольование консольной версии {#deluge-console}
 
